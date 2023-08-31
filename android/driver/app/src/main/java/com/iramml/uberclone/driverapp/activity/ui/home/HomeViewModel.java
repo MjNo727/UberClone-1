@@ -89,7 +89,6 @@ public class HomeViewModel extends ViewModel {
 
     public void setFirebaseOnlineStatus(boolean isOnline) {
         this.isOnline = isOnline;
-
         if (isOnline) {
             FirebaseDatabase.getInstance().goOnline();
             location.initializeLocation();

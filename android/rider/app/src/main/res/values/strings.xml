@@ -72,7 +72,8 @@
 
     <string name="sent_failed">Sent failed</string>
 
-    <string name="signin">SIGN IN</string>
+    <string name="signin">SIGN UP</string>
+    <string name="signup">SIGN UP</string>
 
     <string name="title_activity_home">Home</string>
     <string name="title_activity_main">Map</string>

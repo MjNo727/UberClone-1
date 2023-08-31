@@ -65,7 +65,7 @@
     <string name="sent_failed">Envio fallido</string>
 
     <string name="signin">REGISTRARSE</string>
-
+    <string name="signup">SIGN UP</string>
     <string name="title_activity_home">Home</string>
     <string name="title_activity_main">Map</string>
 
